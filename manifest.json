@@ -1,0 +1,27 @@
+{
+    "name": "InstApp",
+    "short_name": "InstApp",
+    "description": "Aplicación Web Progresiva, versión de Instagram.",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+      {
+        "src": "./assets/192logo.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "./assets/512logo.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      },
+      {
+        "src": "./assets/logo.webp",
+        "sizes": "16x16",
+        "type": "image/webp"
+      }  
+    ]
+  }
+  
